@@ -22,31 +22,17 @@
 
   <img src="https://i.loli.net/2020/02/16/TtedFMEK3ihDy6P.png" align="left" width="300" height = "420"/><img src="https://i.loli.net/2020/02/16/kyNlhJUecuFiAvm.png" align="right" width="300" height = "420"/>
 
-  
 
-  
 
-  
 
-  
 
-  
 
-  
 
-  
 
-  
 
-  
 
-  
 
-  
 
-  
-
-  
 
 
 
