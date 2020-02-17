@@ -51,6 +51,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 ## 源码结构
 
 项目使用标准MVC框架，采用maven搭建，其中前端代码位于`/webapp`，dao层CRUD代码位于`/resources/mapper`，Mybatis、web、Redis相关配置文件位于`/resources/spring`。
