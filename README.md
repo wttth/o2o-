@@ -22,30 +22,35 @@
 
   <img src="https://i.loli.net/2020/02/16/TtedFMEK3ihDy6P.png" align="left" width="300" height = "420"/><img src="https://i.loli.net/2020/02/16/kyNlhJUecuFiAvm.png" align="right" width="300" height = "420"/>
 
-​                                                                                                                                                                                                                                                                                            
+  
 
-​                                                                                                                                                            
+  
 
-​                                                                                                                          
+  
 
-​                                                                                                                             
+  
 
-​                                                                                                                                    
+  
 
-​                                                                                                                                    
+  
 
-​                                                                                                                                 
+  
 
-​                                                                                                                                  
+  
 
-​                                                                                                                                  
+  
 
-​                                                                                                                                 
+  
 
-​                                                                                                                                                                                                                                                                       
+  
 
-​                                                                                                                                   
+  
+
+  
+
+
+
 
 ## 源码结构
 
-项目使用标准MVC框架，采用maven搭建，其中前端代码位于`/webapp`，dao层CRUD代码位于`/resources/mapper`，Mybatis、web、Redis相关配置文件位于`/resources/spring`。
+项目使用标准MVC框架，采用maven搭建，其中前端代码位于`/webapp`，dao层CRUD代码位于`/resources/mapper`，Mybatis、web、Redis相关配置文件位于`/resources/spring`。其中dao层split下为数据库主从库同步相关代码，Redis缓存相关实现整合在service中。
